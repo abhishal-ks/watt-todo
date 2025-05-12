@@ -1,4 +1,4 @@
-# wattTodo
+# ⚡wattTodo
 
 > *Never forget your ambitions.
 Even if you do, I've got you covered*👍
